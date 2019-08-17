@@ -7,6 +7,6 @@
   */
 class GitTest {
   def main(args: Array[String]): Unit = {
-
+    val name = "傻子"
   }
 }
